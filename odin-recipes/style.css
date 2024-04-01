@@ -11,4 +11,13 @@ h1 {
 
 ul, ol {
     background-color: palevioletred;
+    width: 80%;
+    margin: 0px auto;
+}
+
+h3 {
+    display: inline-block;
+    text-align: center;
+    padding: 5px 20px;
+    background-color: antiquewhite;
 }
